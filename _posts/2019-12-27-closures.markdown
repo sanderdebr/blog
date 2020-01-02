@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Closures in Javascript explained"
+date:   2019-12-27 15:12:58 +0100
+categories: javascript
+---
+
+Closures are important because they control what is and isn’t in scope in a particular function. A closure gives you access to an outer function’s scope from an inner function. Closures are frequently used in JavaScript for object data privacy, in event handlers and callback functions.
+
+See the following example:
+
+
+{% highlight js %}
+function init() {
+    var text = "Hello World!"; // text is a local variable created by init
+    function sayHello() { // sayHello() is the inner function, a closure
+        console.log(text); // sayHello() uses variable text declared in the parent function    
+    }
+    sayHello();    
+}
+init();
+{% endhighlight %}
+
+Nested functions have access to variables declared in their outer scope.
+
+Every time curly brackets are used a lexical environment is created, this is purely a logical concept. The let keyword conseils the variable to its own scope (scope is the same as lexical environment), so this is useful if you want to make a private variable. 
