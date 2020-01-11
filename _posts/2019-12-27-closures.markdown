@@ -2,7 +2,7 @@
 layout: post
 title:  "Closures in Javascript explained"
 date:   2019-12-27 15:12:58 +0100
-categories: javascript
+categories: vanillajs
 ---
 
 Closures are important because they control what is and isn’t in scope in a particular function. A closure gives you access to an outer function’s scope from an inner function. Closures are frequently used in JavaScript for object data privacy, in event handlers and callback functions.

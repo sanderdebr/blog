@@ -2,7 +2,7 @@
 layout: post
 title:  "Creating an art recommending web app using the Harvard Art API - part 6: Code review & Deployment"
 date:   2019-12-20 15:12:58 +0100
-categories: javascript
+categories: vanillajs
 ---
 
 ## 9. Code review

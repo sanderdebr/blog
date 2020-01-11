@@ -2,7 +2,7 @@
 layout: post
 title:  "Creating an art recommending web app using the Harvard Art API - part 5: Likes & LocalStorage"
 date:   2019-12-19 15:12:58 +0100
-categories: javascript
+categories: vanillajs
 ---
 
 ## 8. Adding likes to local storage

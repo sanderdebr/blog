@@ -2,7 +2,7 @@
 layout: post
 title:  "Creating an art recommending web app using the Harvard Art API - part 4: Art & Error handling"
 date:   2019-12-18 15:12:58 +0100
-categories: javascript
+categories: vanillajs
 ---
 ## 7. Art detail information and error handling
 

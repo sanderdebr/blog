@@ -2,7 +2,7 @@
 layout: post
 title:  "Creating an art recommending web app using the Harvard Art API - part 3: API"
 date:   2019-12-17 15:12:58 +0100
-categories: javascript
+categories: vanillajs
 ---
 ## 6. Setting up the API
 

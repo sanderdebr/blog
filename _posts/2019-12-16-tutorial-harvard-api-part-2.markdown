@@ -2,7 +2,7 @@
 layout: post
 title:  "Creating an art recommending web app using the Harvard Art API - part 2: MVC & State"
 date:   2019-12-16 15:12:58 +0100
-categories: javascript
+categories: vanillajs
 ---
 ## 4. Setting up the events
 

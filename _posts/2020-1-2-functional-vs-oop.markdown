@@ -2,7 +2,7 @@
 layout: post
 title:  "Functional vs Object Orientated Programming in Javascript"
 date:   2020-1-2 15:12:58 +0100
-categories: javascript
+categories: vanillajs
 ---
 
 JavaScript is a multi-paradigm language, supporting imperative/procedural programming along with OOP (Object-Oriented Programming) and functional programming. JavaScript supports OOP with prototypal inheritance.

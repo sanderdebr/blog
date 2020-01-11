@@ -2,11 +2,14 @@
 layout: post
 title:  "Creating an art recommending web app using the Harvard Art API - part 1: design & HTML/CSS"
 date:   2019-12-15 15:12:58 +0100
-categories: javascript
+categories: vanillajs
 ---
 Today I will show you how to create a web application that teaches itself how to recommend the best art from the Harvard Art Museum to its users. We will use Adobe XD, HTML/CSS, vanilla Javascript and webpack. With an API connection we will retrieve the art.
 
-What you’ll learn in this tutorial
+<a href="https://sanderdev.nl/projects/smartart/">View demo</a><br/>
+<a href="https://github.com/sanderdebr/smartart">View code</a>
+
+What you’ll learn in this tutorial:
 
 * High fidelity prototyping with Adobe XD
 * Responsive HTML5/CSS3 layout
@@ -16,8 +19,6 @@ What you’ll learn in this tutorial
 * CSS button animation
 * Webpack config
 * Vanilla JS ES6
-* Setting up a backend server with Express 
-* Setting up a private API to connect backend with frontend
 * Setting up a 3rd party API with Harvard art API
 * Deploying front- and backend to Heroku 
 

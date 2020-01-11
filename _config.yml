@@ -21,7 +21,7 @@
 title: Sander de Bruijn
 email: sander606@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Documenting my learnings regarding web development, specifically Javascript, React, HTML/CSS and web-design.
+  Documenting my learnings regarding web development, specifically Javascript, React, HTML/CSS and web-design. Build with Jekyll Ruby.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://www.sanderdev.nl" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
